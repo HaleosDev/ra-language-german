@@ -7,14 +7,14 @@ Formal and informal German messages for [react-admin](https://github.com/marmela
 ## Installation
 
 ```sh
-npm install --save @haleosde/ra-language-german
+npm install --save @haleos/ra-language-german
 ```
 
 ## Usage
 
 ```jsx
 import { Admin } from "react-admin"
-import {formalGermanMessages, informalGermanMessages} from "@haleosdev/ra-language-german"
+import {formalGermanMessages, informalGermanMessages} from "@haleos/ra-language-german"
 import polyglotI18nProvider from "ra-i18n-polyglot"
 
 const messages = {
