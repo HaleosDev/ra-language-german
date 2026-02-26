@@ -24,12 +24,12 @@
   },
   "dependencies": {
     "lodash": "^4.17.21",
-    "ra-core": "^4.11.2",
+    "ra-core": "^5.14.2",
     "type-fest": "^3.12.0"
   },
   "devDependencies": {
     "@types/lodash": "^4.14.195",
-    "rimraf": "^3.0.2",
+    "rimraf": "^6.1.3",
     "typescript": "^4.4.0"
   },
   "keywords": [
